@@ -3,7 +3,7 @@ title: "Home"
 ---
 
 # Phoenix Stroh
-Hey there! I'm a game developer and educator. I love 3d modeling, programming, game design, ui/ux, but I am at my best making tools and systems to make development easier for my team.
+Hey there! I'm a game developer and educator. I love 3d modeling, programming, game design, ui/ux, but I am at my best making tools and systems to make development easier for my team members.
 
 ## Latest Projects
 - [*Spooky Express*](/projects/spooky-express) - 3D Puzzle Game, Windows/Mac/iOS/Android, 2025

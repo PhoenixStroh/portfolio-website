@@ -1,12 +1,18 @@
 {{ partial "header.html" . }}
 
 <h1>{{ .Title }}</h1>
+<p class="tagline"><i>{{.Params.studio}}</i> ({{.Params.release_date}})</p>
 
-<div class="row-container">
-    <iframe src="https://www.youtube.com/embed/mV1eSyI8XA8" class="second-row">        
+<div class="row-container wide">
+    <iframe src="{{ .Params.featured_video }}" class="feature-video">        
     </iframe>
-    <div class="first-row">
-        <p>test0!</p>
+    <div class="feature-desc">
+        <p class="inner-header">Platforms</p>
+        <p>{{.Params.platforms}}</p>
+        <p class="inner-header">Engine Tools</p>
+        <p>{{.Params.engine_tools}}</p>
+        <p class="inner-header">Skill Focus</p>
+        <p>{{.Params.skill_focus}}</p>
     </div>
 </div>
 
