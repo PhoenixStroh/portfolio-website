@@ -1,0 +1,32 @@
+{{ partial "header.html" . }}
+
+<h1>{{ .Title }}</h1>
+
+<div class="row-container">
+    <iframe src="https://www.youtube.com/embed/mV1eSyI8XA8" class="second-row">        
+    </iframe>
+    <div class="first-row">
+        <p>test0!</p>
+    </div>
+</div>
+
+<!-- <div class="container">
+    <div class="column" style="background-color: grey">
+        <p>test0!</p>
+        <iframe width="420" height="150" allow="fullscreen;"
+            src="https://www.youtube.com/embed/mV1eSyI8XA8">
+        </iframe> 
+    </div>
+        
+    <div class="column" style="background-color: yellow">
+        <p>test!</p>
+    </div>
+</div>  -->
+
+<!-- <img src={{ .Params.featured_img }} alt="Alt" class="image-style"> -->
+
+
+
+{{ .Content }}
+
+{{ partial "footer.html" . }}
