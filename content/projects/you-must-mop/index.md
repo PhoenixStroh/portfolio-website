@@ -1,6 +1,6 @@
 +++
 date = '2025-09-19T18:44:01-04:00'
-draft = true
+draft = false
 title = 'You Must Mop'
 [params]
     featured_video = 'https://www.youtube.com/embed/_XTc5PIUB7g'

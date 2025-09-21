@@ -1,6 +1,6 @@
 +++
 date = '2025-09-19T18:44:01-04:00'
-draft = true
+draft = false
 title = 'Electrifying Incident'
 [params]
     featured_video = 'https://www.youtube.com/embed/o-3EH8n4HuI'

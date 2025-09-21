@@ -1,4 +1,4 @@
-baseURL = 'http://phoenixstroh.github.io/portfolio-website/'
+baseURL = 'http://phoenixstroh.github.io/'
 languageCode = 'en-us'
 title = 'Phoenix Stroh'
 theme = 'my-theme'
