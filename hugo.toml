@@ -15,3 +15,7 @@ theme = 'my-theme'
     name = "About"
     url = "/about"
     weight = 20
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
