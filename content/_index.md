@@ -40,6 +40,7 @@ If you are wanting to reach out, please send an email to jobs@phoenixstroh.com.
 - The Electrifying Incident
 
 ### 2024
+- Randimals
 - LUMA
 - Jester and The Tower of Wizard
 
