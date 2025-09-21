@@ -11,12 +11,12 @@ I ride the dividing line between technology and art, having developed several to
 
 If you are wanting to reach out, please send an email to jobs@phoenixstroh.com.
 
-[Resume](/phoenix-stroh-resume.pdf) - [Artstation](https://www.artstation.com/phoenixstroh) - [Itch.io](https://gamekwng.itch.io/) - [Github](https://github.com/PhoenixStroh)
+[Resume](phoenix-stroh-resume.pdf) - [Artstation](https://www.artstation.com/phoenixstroh) - [Itch.io](https://gamekwng.itch.io/) - [Github](https://github.com/PhoenixStroh)
 
 ## Latest Projects
-- [*Spooky Express*](/projects/spooky-express) - 3D Puzzle Game, Windows/Mac/iOS/Android, 2025
-- [*Electrifying Incident*](/projects/electrifying-incident) - 3D Puzzle Game, Windows/Mac, 2025
-- [*You Must Mop*](/projects/you-must-mop) - 2D Dexterity Story Game, Windows/Mac, 2024
+- [*Spooky Express*](projects/spooky-express) - 3D Puzzle Game, Windows/Mac/iOS/Android, 2025
+- [*Electrifying Incident*](projects/electrifying-incident) - 3D Puzzle Game, Windows/Mac, 2025
+- [*You Must Mop*](projects/you-must-mop) - 2D Dexterity Story Game, Windows/Mac, 2024
 
 ## Showcases & Breakdowns
 - [*Cretaceous Bodacious* - Beatmap Editor Progression](https://www.artstation.com/artwork/LRP4Bk)
