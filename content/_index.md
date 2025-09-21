@@ -11,7 +11,7 @@ I ride the dividing line between technology and art, having developed several to
 
 If you are wanting to reach out, please send an email to jobs@phoenixstroh.com.
 
-[Resume](/phoenix-stroh-resume.pdf) - [Artstation](https://www.artstation.com/phoenixstroh) - [Itch.io](https://gamekwng.itch.io/)
+[Resume](/phoenix-stroh-resume.pdf) - [Artstation](https://www.artstation.com/phoenixstroh) - [Itch.io](https://gamekwng.itch.io/) - [Github](https://github.com/PhoenixStroh)
 
 ## Latest Projects
 - [*Spooky Express*](/projects/spooky-express) - 3D Puzzle Game, Windows/Mac/iOS/Android, 2025
