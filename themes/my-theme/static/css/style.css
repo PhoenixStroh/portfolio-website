@@ -18,12 +18,17 @@ ul {
 p {
   max-width: 45rem;
   margin: auto;
+  margin-bottom: 10px;
 }
 
 h1, h2, h3, h4, h5, h6 {
 
   max-width: 45rem;
   margin: auto;
+}
+
+h1 {
+  text-align: center;
 }
 
 h2 {
@@ -52,6 +57,7 @@ img {
 .tagline {
   line-height: 1;
   margin-bottom: 1.5rem;
+  text-align: center;
 }
 
 .row-container {
@@ -92,16 +98,8 @@ a {
   font-weight: 400;
 }
 
-a:link {
-  
-}
-
-a:visited {
-  color: #cc7920;
-}
-
 a:hover {
-  color: rgb(205, 124, 36);
+  color: rgb(255, 182, 103);
 }
 
 a:active {
@@ -113,6 +111,10 @@ a:active {
 }
 
 /* NAVIGATION */
+
+.site-header {
+  position: absolute;
+}
 
 .site-nav {
   display: flex;
@@ -126,6 +128,7 @@ a:active {
 .site-nav .logo {
   font-weight: bold;
   padding-left: 0;
+  font-size: 50px;
 }
 
 .main-menu {

@@ -3,7 +3,15 @@ title: "Home"
 ---
 
 # Phoenix Stroh
-Hey there! I'm a game developer and educator. I love 3d modeling, programming, game design, ui/ux, but I am at my best making tools and systems to make development easier for my team members.
+Hey there!
+
+I'm a technical artist, programmer, and educator who's focused on making tools and systems for games.
+
+I ride the dividing line between technology and art, having developed several tools for artists and designers to make their life easier. I love working closely with other people to coordinate many different talents and to provide assistance when possible. With a background of programming and a bachelor's in Animation & Game Art, I often fill in what is needed, including Programming, 3d Modeling, UI/UX, Animation, and Vfx.
+
+If you are wanting to reach out, please send an email to jobs@phoenixstroh.com.
+
+[Resume](/phoenix-stroh-resume.pdf) - [Artstation](https://www.artstation.com/phoenixstroh) - [Itch.io](https://gamekwng.itch.io/)
 
 ## Latest Projects
 - [*Spooky Express*](/projects/spooky-express) - 3D Puzzle Game, Windows/Mac/iOS/Android, 2025
